@@ -1,0 +1,5 @@
+1. Utilizar contraseñas fuertes y únicas.
+2. No compartir credenciales de acceso.
+3. Proteger los datos personales de los usuarios.
+4. Mantener el sistema y las aplicaciones actualizadas.
+5. Limitar el acceso a la información sensible según los permisos de cada usuario.
