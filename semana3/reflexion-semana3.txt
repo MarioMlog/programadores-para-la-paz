@@ -1,0 +1,8 @@
+Git es una herramienta muy importante porque permite registrar cada cambio realizado en un proyecto de software. 
+Gracias a este registro, es posible conocer la evolución del trabajo y recuperar versiones anteriores si ocurre algún error. 
+También facilita el trabajo en equipo, ya que varias personas pueden colaborar en un mismo proyecto sin perder información. 
+Además, Git ayuda a mantener el proyecto organizado y documentado. 
+Utilizar un historial de cambios permite identificar quién realizó cada modificación y cuándo la hizo. 
+Esto mejora la calidad del desarrollo y reduce los riesgos de perder avances importantes. 
+Considero que aprender a utilizar Git es una habilidad fundamental para cualquier desarrollador. 
+Su uso hace que los proyectos sean más seguros, organizados y fáciles de mantener.
